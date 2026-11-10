@@ -13,11 +13,11 @@ Easy 🟢
 **Flag:** Hidden in plain sight. 💀
 
 **Scenario**
-You have been handed a JPEG that looks like an ordinary image. A message has been concealed inside it.
+You have been handed a JPG that looks like an ordinary image. A message has been concealed inside it.
 Your task is to recover the hidden payload and read its contents.
 
 **Objectives**
-- Download the challenge JPEG.
+- Download the challenge JPG.
 - Investigate the image without modifying the original.
 - Identify and recover the embedded payload.
 - Read the recovered text and submit it as the flag.
